@@ -1,0 +1,48 @@
+{
+  "nickname": "F",
+  "name": "范逸风",
+  "studentId": "2408090601026",
+  "github": "F55-star",
+  "role": "场景模型师 / 地编师",
+  "intro": "我是一名数字媒体技术学生，关注风格化场景、环境叙事与关卡空间。希望把构图、材质和灯光，变成值得走进去的世界。",
+  "email": "",
+  "tools": [
+    "Blender",
+    "Unreal Engine",
+    "Substance 3D Painter",
+    "Marmoset Toolbag"
+  ],
+  "projects": [
+    {
+      "id": "forest",
+      "title": "雾林 · 光与空间",
+      "english": "FOREST / ATMOSPHERE",
+      "category": "场景氛围",
+      "image": "home-background.png",
+      "description": "这是模板提供的森林背景，用于演示作品页面的构图与图片呈现。上传个人场景截图后，即可替换为真实作品。",
+      "tools": "Blender · Unreal Engine",
+      "sample": true
+    },
+    {
+      "id": "ruins",
+      "title": "遗迹 · 环境叙事",
+      "english": "RUINS / WORLD BUILDING",
+      "category": "环境叙事",
+      "image": "projects-background.png",
+      "description": "这是模板提供的示例画面，用于演示环境叙事栏目的呈现。这里可以放最终效果图、场景细节和建模过程。",
+      "tools": "Unreal Engine · Substance 3D Painter",
+      "sample": true
+    },
+    {
+      "id": "study",
+      "title": "秘境 · 风格探索",
+      "english": "STUDY / STYLIZATION",
+      "category": "风格化",
+      "image": "about-background.png",
+      "description": "这是模板提供的示例画面，用于演示风格化研究栏目。后续可替换为个人的三渲二场景和材质表现。",
+      "tools": "Blender · Marmoset Toolbag",
+      "sample": true
+    }
+  ]
+}
+
